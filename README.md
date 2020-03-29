@@ -16,16 +16,16 @@ it.
 
 # Goals
 
-The inforamtion here is meant to cover a very specific set of use-cases:
+The information here is meant to cover a very specific set of use-cases:
 
 1. It should only be information that *everyone* can and should implement in 
 their digital lives. We don't need to get into Tor, or setting up a home VPN,
-or isntalling a hardened Linux distro. Keep it simple.
+or installing a hardened Linux distro. Keep it simple.
 
 2. It should be expressed in plain, concise English that your (non-technical) 
 grandparents can understand and follow. The most important thing is to simply 
 describe what should be done; a nice-to-have is an expression of the reason it's
-important, if that can be put in plain English; and we shouldn't bother at all
+important, if that can be put into plain English; and we shouldn't bother at all
 with the technical details, even if some subset of visitors might be able to 
 follow them. Practical advice only; we don't want to lose people's attention.
 
