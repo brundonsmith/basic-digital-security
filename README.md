@@ -12,6 +12,8 @@ So this web page is my attempt to create a simple, accessible, one-stop source
 for those practices which people can send to friends or relatives who may need
 it.
 
+[View the site on GitHub Pages](https://brundonsmith.github.io/basic-digital-security/)
+
 # Goals
 
 The inforamtion here is meant to cover a very specific set of use-cases:
