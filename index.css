@@ -1,0 +1,12 @@
+
+body {
+  max-width:800px;
+  padding:1em;
+  margin:0 auto;
+}
+
+body img {
+  max-height: 300px;
+  margin: 0 auto;
+  display: block;
+}
